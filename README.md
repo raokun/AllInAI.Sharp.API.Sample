@@ -13,6 +13,7 @@ The AllInAI SDK integrates unified input and output parameters in the chat and i
 
 ## Version
 ```
+V1.1.3 Fix the issue of Wenxin Qianfan model
 V1.1.2 Fix the issue of empty return when calling the Wenxin Qianfan model
 ```
 

@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AllInAI.Sharp.API" Version="1.1.2" />
+    <PackageReference Include="AllInAI.Sharp.API" Version="1.1.3" />
     <PackageReference Include="MSTest.TestFramework" Version="3.1.1" />
   </ItemGroup>
 

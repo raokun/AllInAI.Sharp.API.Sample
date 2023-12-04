@@ -11,7 +11,10 @@ AllInAI.Sharp.API的使用示例文档。AllInAI.Sharp.API一款调用各大平�
 AllInAI SDK 在聊天和图片接口中整合统一的入参和出参。方便调用。
 
 ## Version
+
 ```
+V1.1.3 修复文心千帆模型调用模型问题
+
 V1.1.2 修复文心千帆模型调用返回为空的问题
 ```
 
