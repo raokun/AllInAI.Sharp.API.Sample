@@ -11,6 +11,11 @@ Usage example documentation for AllInAI.Sharp.API.
 AllInAI.Sharp.API is an SDK that calls language models from various platforms, and it helps users quickly integrate with major models. It has integrated OpenAI, chatGLM, Wenxin Qianfan, Synonymous Qianwen, stable-diffusion, etc. It supports setting reverse proxies and streaming interfaces.
 The AllInAI SDK integrates unified input and output parameters in the chat and image interfaces, making it easy to call.
 
+## Version
+```
+V1.1.2 Fix the issue of empty return when calling the Wenxin Qianfan model
+```
+
 ## Completed models include:
 * OpenAI
 * chatGLM
