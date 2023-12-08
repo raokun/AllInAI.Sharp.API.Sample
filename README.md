@@ -13,8 +13,10 @@ The AllInAI SDK integrates unified input and output parameters in the chat and i
 
 ## Version
 ```
-V1.1.3 Fix the issue of Wenxin Qianfan model
-V1.1.2 Fix the issue of empty return when calling the Wenxin Qianfan model
+* V1.1.5 Added OpenAI Translations API for converting speech to text, specifically for converting speech to English.
+* V1.1.4 Added OpenAI Whisper API for converting speech to text.
+* V1.1.3 Fixed an issue with the invocation of the Wenxin Qianfan model.
+* V1.1.2 Fixed an issue with the Wenxin Qianfan model where the returned result was empty.
 ```
 
 ## Completed models include:

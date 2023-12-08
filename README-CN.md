@@ -4,6 +4,9 @@
 
 ![](https://img.shields.io/github/stars/raokun/AllInAI.Sharp.API.Sample) ![](https://img.shields.io/github/forks/raokun/AllInAI.Sharp.API.Sample)
 
+[![AllInAI.Sharp.API](https://img.shields.io/nuget/v/AllInAI.Sharp.API?style=for-the-badge)](https://www.nuget.org/packages/AllInAI.Sharp.API/)
+
+
 中文简介 | [English](README.md)
 
 AllInAI.Sharp.API的使用示例文档。AllInAI.Sharp.API一款调用各大平台语言模型的SDK，能帮助使用者快速对接各大模型。已整合OpenAI，chatGLM，文心千帆，同义千问，stable-diffusion 等
@@ -13,9 +16,12 @@ AllInAI SDK 在聊天和图片接口中整合统一的入参和出参。方便�
 ## Version
 
 ```
-V1.1.3 修复文心千帆模型调用模型问题
+* V1.1.5 添加openai 语音文字转换Translations接口,语音转英文
+* V1.1.4 添加openai 语音文字转换接口whisper
 
-V1.1.2 修复文心千帆模型调用返回为空的问题
+* V1.1.3 修复文心千帆模型调用模型问题
+
+* V1.1.2 修复文心千帆模型调用返回为空的问题
 ```
 
 ## 已完成模型有
